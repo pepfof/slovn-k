@@ -1,2 +1,2 @@
-# slovn-k
+# slovník
 a dictionary.
