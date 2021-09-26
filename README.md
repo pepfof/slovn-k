@@ -1,0 +1,2 @@
+# slovn-k
+a dictionary.
